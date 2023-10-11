@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 Casi todo el dia **estudio**
+ 🔭 Casi todo el dia **estudiando y aprendiendo**
  
  🌱 En mi tiempo libre me gusta **programar, ver anime, hacerme pndjo**
 
- 💬 Puedes hablarme por aqui -> [here]([https://www.instagram.com/dari.kawer/])**
+ 💬 Puedes hablarme por aqui -> **[here](https://www.instagram.com/dari.kawer/)**
  
  </div>
 
@@ -23,8 +23,8 @@
 <h2 align="center">⚒️ Lenguajes medio aprendidos ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c++,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,nodejs,python,javascript" />
+    <img src="https://skillicons.dev/icons?i=mongodb,c++,java,mysql" /><br>
 </div>
 
 <br/>
@@ -53,7 +53,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Gracias+por+visitar+pibe!+✌️;+Chaos!;Recuerda+no+hacer+c&p+papu+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Gracias+por+visitar+papu!+✌️;+Chaos!;Recuerda+no+hacer+candp+papu+:)">
 </h3>
 
 <br/>
