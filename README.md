@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DariKawer.DariKawer" />
 
-<h1 align="center">"Que Onda pibardos 🤖"</h1>
+<h1 align="center">Que Onda papus 🤖</h1>
 
 <h3 align="center">Un programador muy humilde :,)</h3>
 
