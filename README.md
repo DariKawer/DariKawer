@@ -1,16 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DariKawer.DariKawer" />
 
-<h1 align="center">Que Onda papus 🤖</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Q+onda+papus!;+Yo+soy+Dari!;" />
+</h1>
 
 <h3 align="center">Un programador muy humilde :,)</h3>
 
 <br/>
 
 <div align="center">
+
+ 🤖 A veces aprendiendo ingles
  
  🔭 Casi todo el dia **estudiando y aprendiendo**
  
- 🌱 En mi tiempo libre me gusta **programar, ver anime, hacerme pndjo**
+ 🌱 En mi tiempo libre me gusta **programar, ver anime y leer documentaciones**
 
  💬 Puedes hablarme por aqui -> **[here](https://www.instagram.com/dari.kawer/)**
  
@@ -18,7 +22,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Lenguajes medio aprendidos ⚒️</h2>
+<h2 align="center">⚒️ Lenguajes Usados ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,nodejs,python,javascript" />
