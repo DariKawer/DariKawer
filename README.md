@@ -41,7 +41,7 @@
 <h2 align="center">⚡ Mis Estadisticas ⚡</h2>
 <br>
 <div align=center>
-  <img width=450 src="https://streak-stats.demolab.com/?user=DariKawer&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img src="[https://streak-stats.demolab.com/?user=DariKawer&count_private=true&theme=react&border_radius=10](https://streak-stats.demolab.com?user=DariKawer&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=550)" alt="GitHub Streak"/>
   <br/>
 </div>
 
