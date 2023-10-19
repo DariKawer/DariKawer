@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Q+onda+papus!;+Yo+soy+Dari!;" />
 </h1>
-![papu](https://media3.giphy.com/media/mlvseq9yvZhba/giphy.gif?cid=ecf05e47acmosk5dcj0g8jbeaec7m27ol71u8p8erlaasb89&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![papu](https://th.bing.com/th/id/OIP.ExdfXH4SRocjB3p0N79xpAHaIY?pid=ImgDet&rs=1)
 
 <h3 align="center">Un programador muy humilde :,)</h3>
 
