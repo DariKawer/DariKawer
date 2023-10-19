@@ -2,9 +2,14 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Q+onda+papus!;+Yo+soy+Dari!;" />
-    <br/>
-    <img align="center" src="https://tenor.com/es/view/salem-gif-20924062" width="250"  height="280" />
+    /*<br/>
+    <img align="center" src="https://tenor.com/es/view/salem-gif-20924062" width="250"  height="280" />*/
 </h1>
+
+<div class="tenor-gif-embed" data-postid="20924062" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+    <a href="https://tenor.com/view/salem-gif-20924062">Salem GIF</a>from <a href="https://tenor.com/search/salem-gifs">Salem GIFs</a>
+</div> 
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="center">Un programador muy humilde :,)</h3>
 
