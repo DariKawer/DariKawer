@@ -2,7 +2,8 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Q+onda+papus!;+Yo+soy+Dari!;" />
-    <img align="center" src="https://th.bing.com/th/id/OIP.ExdfXH4SRocjB3p0N79xpAHaIY?pid=ImgDet&rs=1" />
+    <br/>
+    <img align="center" src="https://th.bing.com/th/id/OIP.ExdfXH4SRocjB3p0N79xpAHaIY?pid=ImgDet&rs=1" width="250"  height="280" />
 </h1>
 
 <h3 align="center">Un programador muy humilde :,)</h3>
