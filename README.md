@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Q+onda+papus!;+Yo+soy+Dari!;" />
 </h1>
 
-<iframe src="https://giphy.com/embed/mlvseq9yvZhba" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-cat-mlvseq9yvZhba">via GIPHY</a></p>
+<h2 align="center">
+    <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" />
+</h2>
 
 <h3 align="center">Un programador muy humilde :,)</h3>
 
