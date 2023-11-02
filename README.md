@@ -53,7 +53,7 @@
 <br/><br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<details><summary><h3a lign="center"> 📂 Mis Repositorios 📂</h3></summary>
+<details><summary><h2 align="center"> 📂 Mis Repositorios 📂</h2></summary>
 	
 <div>
   <p align="center">
@@ -75,13 +75,11 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<details><summary><h3 align="center">🥳 Conecta conmigo 🥳</h3></summary>
-	
+<h2 align="center">🥳 Conecta conmigo 🥳</h2>
+
 <p align="center">
 	<a href="mailto:ahmed.ilovestarko@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/DariKawer"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/dari.kawer/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
-</details>
 
