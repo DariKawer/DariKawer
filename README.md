@@ -6,9 +6,9 @@
     <img align="center" src="https://th.bing.com/th/id/OIP.ExdfXH4SRocjB3p0N79xpAHaIY?pid=ImgDet&rs=1" width="250"  height="280" />
 </h1>
 
-<h3 align="center">Un programador muy humilde :,)</h3>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<br/>
+<h3 align="center">Un programador muy humilde :,)</h3>
 
 <div align="center">
 
@@ -22,7 +22,7 @@
  
  </div>
 
- <hr/>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <h2 align="center">⚒️ Lenguajes Usados ⚒️</h2>
 <br/>
@@ -31,8 +31,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb,cpp,java,mysql" /><br>
 </div>
 
-<br/>
-<hr/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
   <h2>🐍 Mis Contribuciones 🐍</h2>
@@ -52,7 +51,7 @@
 </div>
 
 <br/><br/>
-<hr/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">🥳 Conecta conmigo 🥳</h2>
 <p align="center">
@@ -61,11 +60,9 @@
 	<a href="https://www.instagram.com/dari.kawer/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<hr/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <details><summary><h3> 📂 My Repositories 📂</h3></summary>
-
-----
 	
 <div>
   <p align="center">
@@ -79,11 +76,13 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DariKawer&repo=Darken&theme=tokyonight" alt="GitHub Stats" />
 	</a>
 	<a href="https://github.com/DariKawer/restaurantUTC">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DariKawer&repo=restaurantUTC&theme=cobalt" alt="GitHub Stats" />
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DariKawer&repo=restaurantUTC&theme=tokyonight" alt="GitHub Stats" />
 	</a>
 	</p>
 </div>
 </details>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Gracias+por+visitar+papu!+✌️;+Chaos!;+Cuidate!;Y+recuerda+no+copiar+y+pegar+papu+B)">
