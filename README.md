@@ -54,15 +54,27 @@
 <br/><br/>
 <hr/>
 
-<h2 align="center">Conecta conmigo</h2>
+<h2 align="center">🥳 Conecta conmigo 🥳</h2>
 <p align="center">
 	<a href="mailto:ahmed.ilovestarko@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/DariKawer"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/dari.kawer/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<br/><br/>
 <hr/>
+
+<details><summary><h3> 📂 My Repositories 📂</h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/DariKawer/4SIS1A_Carballo_Guevara_Itan_2023">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DariKawer&repo=4SIS1A_Carballo_Guevara_Itan_2023&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+</p>
+</div>
+</details>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Gracias+por+visitar+papu!+✌️;+Chaos!;+Cuidate!;Y+recuerda+no+copiar+y+pegar+papu+B)">
