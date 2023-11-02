@@ -48,7 +48,7 @@
 <div align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=DariKawer&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=550"/>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariKawer&theme=transparent&line_height=40&&locale=eshide=css&locale=es"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariKawer&theme=transparent&line_height=40&locale=es&hide=css&card_width=550"/>
 </div>
 
 <br/><br/>
