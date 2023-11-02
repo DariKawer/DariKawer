@@ -72,7 +72,16 @@
 	<a href="https://github.com/DariKawer/4SIS1A_Carballo_Guevara_Itan_2023">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DariKawer&repo=4SIS1A_Carballo_Guevara_Itan_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-</p>
+	<a href="https://github.com/DariKawer/contador-2024">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DariKawer&repo=contador-2024&theme=tokyonight" alt="GitHub Stats" />
+	</a>
+	<a href="https://github.com/DariKawer/Darken">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DariKawer&repo=Darken&theme=tokyonight" alt="GitHub Stats" />
+	</a>
+	<a href="https://github.com/DariKawer/restaurantUTC">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DariKawer&repo=restaurantUTC&theme=cobalt" alt="GitHub Stats" />
+	</a>
+	</p>
 </div>
 </details>
 
