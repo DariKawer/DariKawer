@@ -2,24 +2,22 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Q+onda+papus!;+Yo+soy+Dari!;" />
-    <br/>
-    <img align="center" src="https://th.bing.com/th/id/OIP.ExdfXH4SRocjB3p0N79xpAHaIY?pid=ImgDet&rs=1" width="250"  height="280" />
 </h1>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="center">Un programador muy humilde :,)</h3>
-
 <div align="center">
 
- 🤖 A veces aprendiendo ingles
- 
- 🔭 Casi todo el dia **estudiando y aprendiendo**
- 
- 🌱 En mi tiempo libre me gusta **programar, ver anime y leer documentaciones**
+<img align="left" src="https://th.bing.com/th/id/OIP.ExdfXH4SRocjB3p0N79xpAHaIY?pid=ImgDet&rs=1" width="250"  height="280" />
 
- 💬 Puedes hablarme por aqui -> **[here](https://www.instagram.com/dari.kawer/)**
- 
+```
+Un programador muy humilde :,)
+--------------------------------
+🤖 A veces aprendiendo ingles
+🔭 Casi todo el dia estudiando y aprendiendo sobre lenguajes
+🌱 En mi tiempo libre me gusta programar, ver anime y leer documentaciones
+🎵 Escucho musica mientras programo y estudio
+``` 
  </div>
 
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
