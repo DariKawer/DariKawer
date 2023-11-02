@@ -46,14 +46,15 @@
 <h2 align="center">⚡ Mis Estadisticas ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DariKawer&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=550" alt="GitHub Streak"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=DariKawer&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=550" alt="GitHub Streak"/>
   <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariKawer&theme=react&line_height=40&hide=css"/>
 </div>
 
 <br/><br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<details><summary><h2 align="center"> 📂 Mis Repositorios 📂</h2></summary>
+<details><summary><h2> 📂 Mis Repositorios 📂</h2></summary>
 	
 <div>
   <p align="center">
