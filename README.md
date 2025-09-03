@@ -11,12 +11,13 @@
 <img align="left" src="https://th.bing.com/th/id/OIP.ExdfXH4SRocjB3p0N79xpAHaIY?pid=ImgDet&rs=1" width="250"  height="280" />
 
 ```
-Un programador muy humilde :,)
---------------------------------
-🤖 A veces aprendiendo ingles
-🔭 Casi todo el dia estudiando y aprendiendo sobre lenguajes
-🌱 En mi tiempo libre me gusta programar, ver anime y leer documentaciones
-🎵 Escucho musica mientras programo y estudio
+Si quieres un esclavo, aqui estoy para vos
+------------------------------------------
+🤖 Aprendiendo ingles
+🔭 Aprendiendo y estudiando sobre lenguajes que conozco
+🌱 Veo anime cuando puedo
+🕵️ Me mama leer las documentaciones
+🎵 Escucho musica mientras desarrollo y programo
 ``` 
  </div>
 
